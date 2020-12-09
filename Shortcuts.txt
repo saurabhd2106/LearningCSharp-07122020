@@ -1,0 +1,7 @@
+Type "cw" + <tab> + <tab> -- To Print console.write line
+
+F5 -- To run in Debug mode
+CTRL + F5 -- To run in normal mode
+
+CTRL + S -- Save current file
+CTRL + Shift + s -- Save all files
